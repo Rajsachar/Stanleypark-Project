@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Stanley Bike Rentals</string>
+    <string name="minimum_password">Password too short, please enter minimum 6 characters</string>
+    <string name="auth_failed">Authentication error, make sure you entered a valid email and password or click sign up to create an account</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_login">Click to login.</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_email">Please enter a valid email.</string>
+    <string name="err_msg_required">Password is a required field</string>
+    <string name="err_msg_password">Enter a valid password with min 6 characters.</string>
+    <string name="btn_link_to_signup">Don\'t have an account? Signup! </string>
+    <string name="email">Email</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871592222668",
+    "project_id": "fir-logindemo-2f712",
+    "storage_bucket": "fir-logindemo-2f712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871592222668:android:40ec78790e404b2ff40769",
+        "android_client_info": {
+          "package_name": "com.example.stanleybikerentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871592222668-gk3qrqsbvuic7ckihodq7478593f2cc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnEgLb1yXNNaUzINCuIgQUO9Q1JPW17Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871592222668-gk3qrqsbvuic7ckihodq7478593f2cc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
